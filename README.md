@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikha Singh</h1>
+# Hi 👋, I'm Shikha Singh
 
 <h3 align="center">
 B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
@@ -7,7 +7,7 @@ B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
 <img align="right" alt="coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=UIUXCreatorShikha&label=Profile%20views&color=0e75b6&style=flat" alt="UIUXCreatorShikha" />
+  <img src="https://komarev.com/ghpvc/?username=ShikhaSinghDev&label=Profile%20views&color=0e75b6&style=flat" alt="ShikhaSinghDev" />
 </p>
 
 ### 👩‍💻 About Me
@@ -27,16 +27,18 @@ B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
 ### 🚀 My Projects
 
 **1. My Private Diary**
+
 - A personal diary web application built using Python and Flask.
 - Designed to let users write and manage their private thoughts.
 - 🔗 [Live Website](https://SinghShikha.pythonanywhere.com/)
-- 💻 [GitHub Repository](https://github.com/UIUXCreatorShikha/my-private-diary)
+- 💻 [GitHub Repository](https://github.com/ShikhaSinghDev/my-private-diary)
 
 **2. My Portfolio Website**
+
 - A personal portfolio showcasing my skills and projects.
 - Built using HTML, CSS and JavaScript.
-- 🌐 [Live Portfolio](https://uiuxcreatorshikha.github.io/shikha-portfolio/)
-- 💻 [GitHub Repository](https://github.com/UIUXCreatorShikha/shikha-portfolio)
+- 🌐 [Live Portfolio](https://shikhasinghdev.github.io/shikha-portfolio/)
+- 💻 [GitHub Repository](https://github.com/ShikhaSinghDev/shikha-portfolio)
 
 ---
 
@@ -49,7 +51,7 @@ B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
 <a href="mailto:shikhusingh34@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
-<a href="https://github.com/UIUXCreatorShikha" target="_blank">
+<a href="https://github.com/ShikhaSinghDev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -72,10 +74,9 @@ B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
 <a href="https://www.canva.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 </a>
-
 <a href="https://www.figma.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</a>  
+</a>
 <a href="https://www.python.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
@@ -104,15 +105,15 @@ B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
 ### 📊 GitHub Statistics
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UIUXCreatorShikha&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShikhaSinghDev&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=UIUXCreatorShikha&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShikhaSinghDev&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UIUXCreatorShikha&theme=default" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShikhaSinghDev&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
