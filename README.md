@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shikha Singh</h1>
 
-<h3 align="center">B.Tech Graduate in Computer Science Engineering | Aspiring Software Developer</h3>
+<h3 align="center">
+B.Tech Graduate | Aspiring Software Developer | UI/UX Design Enthusiast
+</h3>
 
 <img align="right" alt="coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -14,6 +16,8 @@
 - 💻 Interested in Software Development and Web Development
 - 🌱 Currently improving my Data Structures & Algorithms skills
 - 🚀 Building projects using Python and Web Technologies
+- 🎨 Interested in Graphic Design and UI/UX Design
+- 🖌️ Creating designs using Canva and Figma
 - 💼 Open to entry-level software development opportunities
 - 📫 Reach me at **shikhusingh34@gmail.com**
 - ⚡ Fun fact: I am always a learner 😊
@@ -65,6 +69,13 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
+<a href="https://www.canva.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</a>  
 <a href="https://www.python.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
